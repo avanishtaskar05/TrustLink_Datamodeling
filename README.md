@@ -38,12 +38,12 @@ The project follows a simple analytical workflow:
       Interactive Dashboards  
                  ↓  
      Business Insights & Decisions  
-
-🛠️ Technology Stack
+     
+Technology Stack
 Technology	                 Purpose
-❄️ Snowflake	           Cloud Data Warehouse  
-📊 Power BI	        Data Analysis & Dashboarding  
-🔢 DAX	                 Calculations & Measures  
-🧹 Power Query        	Data Transformation & Cleaning  
-🗄️ SQL          	Data Querying & Analysis  
-🎨 Canva	        Report / Presentation Design  
+ Snowflake	           Cloud Data Warehouse  
+ Power BI	        Data Analysis & Dashboarding  
+ DAX	                 Calculations & Measures  
+ Power Query        	Data Transformation & Cleaning  
+ SQL          	Data Querying & Analysis  
+ Canva	        Report / Presentation Design  
