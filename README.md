@@ -23,21 +23,21 @@ Support data-driven decision-making
 
 The project follows a simple analytical workflow:
 
-Raw Logistics Data  
-        ↓  
+     Raw Logistics Data  
+            ↓  
      Snowflake   
-        ↓
-Data Storage & Modeling  
-        ↓  
-Data Transformation  
-        ↓  
-    Power BI  
-        ↓  
-DAX & Analytical Processing  
-        ↓  
-Interactive Dashboards  
-        ↓  
-Business Insights & Decisions  
+            ↓
+     Data Storage & Modeling  
+            ↓  
+     Data Transformation  
+            ↓  
+         Power BI  
+            ↓  
+    DAX & Analytical Processing  
+            ↓  
+     Interactive Dashboards  
+            ↓  
+     Business Insights & Decisions  
 
 🛠️ Technology Stack
 Technology	                 Purpose
