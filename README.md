@@ -1,13 +1,12 @@
 TrustLink Logistics — Logistics Data Analytics & Business Intelligence  
-
 Driven by Speed. Powered by Trust.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 TrustLink Logistics is an end-to-end Logistics Data Analytics and Business Intelligence project developed to transform logistics data into meaningful business insights.
 
 The project uses Snowflake as the cloud data warehouse for storing and managing logistics data and Microsoft Power BI for analytical processing, KPI monitoring, interactive dashboarding, and business intelligence.  
 
 📌 Project Overview  
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 The logistics industry generates large volumes of data related to shipments, customers, warehouses, drivers, inventory, delivery performance, and operations.  
 
 The objective of this project is to build a centralized analytical solution that helps organizations:  
@@ -22,6 +21,7 @@ Track important business KPIs
 Support data-driven decision-making  
 
 The project follows a simple analytical workflow:
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
           Raw Logistics Data  
                  ↓  
