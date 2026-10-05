@@ -40,7 +40,7 @@ The project follows a simple analytical workflow:
      Business Insights & Decisions  
      
 Technology Stack
-Technology	                 Purpose
+Technology	                   Purpose
  Snowflake	           Cloud Data Warehouse  
  Power BI	        Data Analysis & Dashboarding  
  DAX	                 Calculations & Measures  
